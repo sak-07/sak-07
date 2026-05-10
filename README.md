@@ -15,7 +15,7 @@ I am deeply passionate about AI and actively building in my personal workspace:
 
 ### 🛠️ Tech Stack
 - **Data & BI:** Power BI, SQL Server, Tableau, Alteryx, DAX
-- **Programming & Web:** Python, Django
+- **Programming & Web:** Python, Django, SQL
 - **AI Ecosystem:** LangChain, LangGraph, LlamaIndex, HuggingFace, ChromaDB, SentenceTransformers, Ollama
 
 ### 📫 Let's Connect!
