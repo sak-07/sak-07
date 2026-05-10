@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sujat Khan
+# Hi there 👋, I'm Sujat
 
 ### Senior Data Analyst | AI Engineering Enthusiast | MBA in Analytics
 
