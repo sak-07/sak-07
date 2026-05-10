@@ -23,4 +23,4 @@ I am deeply passionate about AI and actively building in my personal workspace:
 <a href="mailto:sujatkhan24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
-*“Transforming raw data into actionable insights and exploring the frontiers of local AI.”*
+*“Transforming raw data into actionable insights and exploring the frontiers of AI.”*
