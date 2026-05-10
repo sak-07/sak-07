@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sujat
 
-### Senior Data Analyst | AI Engineering Enthusiast | MBA in Analytics
+### Senior Data Analyst | AI Engineering Enthusiast |
 
 I am a results-driven Senior Data Analyst with over 4 years of experience delivering machine learning, business intelligence, and data engineering solutions. Currently based in Toronto, Canada, I specialize in bridging the gap between traditional data analytics and modern Generative AI engineering.
 
