@@ -36,14 +36,11 @@ I am deeply passionate about AI architectures and continuously developing in my 
 
 Here you can track my live coding metrics, repository contributions, and primary language distributions.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujat-khan&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Sujat's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujat-khan&layout=compact&theme=dark&hide_border=false" alt="Sujat's Top Languages" width="48%" />
-</p>
+![Sujat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujat-khan&show_icons=true&theme=dark&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujat-khan&theme=dark&hide_border=false" alt="Sujat's GitHub Streak" width="97%" />
-</p>
+![Sujat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujat-khan&layout=compact&theme=dark)
+
+![Sujat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujat-khan&theme=dark)
 
 ---
 
