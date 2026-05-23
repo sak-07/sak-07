@@ -34,13 +34,13 @@ I am deeply passionate about AI architectures and continuously developing in my 
 
 ## 📊 GitHub Analytics & Activity
 
-Here you can track my live coding metrics, repository contributions, and primary language distributions.
+![Profile Views](https://komarev.com/ghpvc/?username=sujat-khan&label=Profile%20Views&color=0e75b6&style=flat-square)
 
-![Sujat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujat-khan&show_icons=true&theme=dark&count_private=true)
+Here is a snapshot of my coding activity and contributions over the last 12 months:
 
-![Sujat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujat-khan&layout=compact&theme=dark)
-
-![Sujat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujat-khan&theme=dark)
+<a href="https://github.com/sujat-khan">
+  <img src="https://ghchart.rshah.org/sujat-khan" alt="Sujat's GitHub Activity Graph" width="100%" />
+</a>
 
 ---
 
