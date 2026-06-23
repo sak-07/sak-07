@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sujat
 
-### **Senior Data Analyst | AI Engineering Enthusiast**
+### **AI/ML Engineering | Data Science | MLOps**
 *Bridging the gap between traditional enterprise intelligence and production Generative AI.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujatkhan)
