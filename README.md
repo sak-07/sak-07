@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-I am a results-driven Senior Data Analyst with over 4 years of experience delivering machine learning, business intelligence, and data engineering solutions. Currently based in **Toronto, Canada**, I specialize in transforming raw enterprise data into actionable insights while actively exploring the frontiers of modern AI engineering.
+I am a results-driven data science professional with over 4 years of experience delivering machine learning, business intelligence, and data engineering solutions. Currently based in **Toronto, Canada**, I specialize in transforming raw enterprise data into actionable insights while actively exploring the frontiers of modern AI engineering.
 
 ---
 
